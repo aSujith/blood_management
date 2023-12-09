@@ -1,0 +1,18 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "SABARISH",
+      "email": "SABARISH@GMAIL.COM",
+      "phone": "56789123",
+      "blood_group": "B+VE"
+    },
+    {
+      "id": 2,
+      "name": "S.VISHVANTH",
+      "email": "VISHVANTH@GMAIL.COM",
+      "phone": "9345621657",
+      "blood_group": "O+VE"
+    }
+  ]
+}
